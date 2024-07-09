@@ -116,7 +116,7 @@ ImageLabel.BorderSizePixel = 2
 ImageLabel.Position = UDim2.new(0.949803591, 0, 0.0922175497, 0)
 ImageLabel.Size = UDim2.new(0, 60, 0, 57)
 ImageLabel.ZIndex = 62
-ImageLabel.Image = "rbxassetid://18412183329"
+ImageLabel.Image = "rbxassetid://17357513297"
 
 decal.Name = "decal"
 decal.Parent = Frame
@@ -166,7 +166,7 @@ ImageLabel_2.BorderSizePixel = 0
 ImageLabel_2.Position = UDim2.new(0.500244141, 0, 0.5002895, 0)
 ImageLabel_2.Size = UDim2.new(0, 466, 0, 301)
 ImageLabel_2.ZIndex = 0
-ImageLabel_2.Image = "rbxassetid://17357513297"
+ImageLabel_2.Image = "rbxassetid://18412183329"
 
 grab.Name = "grab"
 grab.Parent = Frame
